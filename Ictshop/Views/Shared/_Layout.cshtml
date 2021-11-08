@@ -1,0 +1,210 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@ViewBag.Title - L E A R N I N G  W E B</title>
+    @Styles.Render("~/Content/css")
+    @Scripts.Render("~/bundles/modernizr")
+    <link rel="stylesheet" href="~/Content/bootstrap.min.css" />
+    <link rel=" stylesheet" href="~/Content/Style.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="~/Scripts/jquery.unobtrusive-ajax.min.js"></script>
+    <script src="~/Scripts/jquery.unobtrusive-ajax.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.js"></script>
+    <script src="~/Scripts/jquery-3.4.1.min.js"></script>
+    @using Ictshop.Models
+
+    <style type="text/css">
+        body{
+            background-color:#F0F0F0;
+        }
+        
+        .navbar-inverse {
+            background-color: slategray;
+            border-color: rebeccapurple;
+        }
+
+        .top_header {
+            background-color: black;
+            padding-left: 110px;
+            color: white;
+        }
+
+        .form-inline {
+            float: right;
+            padding-top: 10px;
+        }
+
+        .navbar-inverse .navbar-nav > li > a {
+            color: white;
+ 
+            font-size: x-large;
+        }
+
+        .navbar-inverse .navbar-brand {
+            color: white;
+        }
+
+        .navbar-inverse .navbar-nav > li > a {
+            color: white;
+
+            font-size: large;
+        }
+
+        .navbar-inverse .navbar-nav > li > a:hover {
+            color: black;
+            }
+
+        .navbar-brand {
+            color: cadetblue;
+        }
+        .spnoibat {
+            background-color: white;
+        }
+     
+    
+}
+        .spnoibat h3 {
+            padding-left: 30px;
+        }
+        .bg-danger{
+            border-radius:5px;
+        }
+            
+}
+        .giohang{
+            color:white;
+        }
+        .bg-success
+        {
+            background-color:lightsteelblue;
+            border-radius:7px;
+            padding-left:10px;
+        }
+    </style>
+
+
+
+</head>
+
+<body>
+
+    @{ 
+         var u = Session["use"] as Ictshop.Models.Nguoidung;
+    }
+
+    <div class="navbar navbar-inverse navbar-fixed-top">
+
+        <div class="top_header col-md-12" >
+
+            <div class="row">
+                @*<div class="col-sm-2"><img class="navbar-brand" src="~/HinhanhSP/logo1.jpg" width="20" height="20" style="padding:0" /></div>*@
+                <div class="col-sm-4 col-md-0" style="font-size:large">L E A R N I N G  W E B</div>
+
+                <div class="col-sm-4 col-md-0" style="padding-left:250px" >
+                   
+            </div>
+            @*@Html.Action("GioHangPartial", "GioHang",new { @style = "color:while" })*@
+            @{
+                if (u != null)
+                {
+                    <div class="col-sm-4 col-md-0">
+                        Xin chào : @u.Email
+                        &nbsp;
+                        @*@Html.ActionLink("ĐĂNG XUẤT", "DangXuat", "User", new { style = "color:red" })*@
+                        <a style="color:red" href="t"> ĐĂNG XUẤT</a>
+                    </div>
+                }
+                else
+                {
+                    <div class="col-sm-4 col-md-0">
+                        <a style="color:white" href=""> Đăng ký</a>
+                        &nbsp;
+                        <a style="color:white" href=""> Đăng nhập</a>
+                    </div>
+                }
+            }
+
+
+            </div>
+
+        </div>
+        <div class="container">
+
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+               
+                @Html.ActionLink("Learningweb", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
+                <form class="form-inline" style="float:left">
+                    <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm sản phẩm..." aria-label="Search">
+                    @*<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>*@
+                </form>
+
+            </div>
+         
+            <div class="navbar-collapse collapse">
+
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#" title="dienthoai">
+                            @*<span><i class=" glyphicon-music "></i></span>*@
+                            <span>ĐIỆN THOẠI</span>
+
+                        </a>
+                        @*<span><i class=" glyphicon-music "></i> </span>
+                <br />
+                <span>@Html.ActionLink("Trang chủ", "Index", "Home") </span>*@
+                    </li>
+                    <li>
+                        <a href="#" title="LAPTOP">
+                            @*<span><i class="fas fa-tablet"></i></span>*@
+                            <span>LAPTOP</span>
+
+                        </a>
+
+                    </li>
+                    <li>
+                        <a href="#" title="PHUKIEN">
+                            @*<span><i class="fas fa-desktop"></i></span>*@
+                            <span>PHỤ KIỆN</span>
+
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/Home/Contact" title="LIENHE">
+                            @*<span><i class="fas fa-headphones"></i></span>*@
+                            <span>LIÊN HỆ</span>
+
+                        </a>
+                    </li>
+                    <li>
+                        <a style="color:white"
+                           class="nav-link" 
+                           href="">ĐƠN HÀNG</a>
+                    </li>
+                </ul>
+            </div>
+
+        </div>
+        </div>
+
+
+    <br>
+
+    <div class="container body-content">
+        @RenderBody()
+            <center> <p class="bg-primary">&copy; @DateTime.Now.Year L E A R N I N G  W E B</p></center>
+        </footer>
+ 
+
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/bootstrap")
+    @RenderSection("scripts", required: false)
+</body>
+</html>

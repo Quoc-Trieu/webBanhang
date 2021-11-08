@@ -1,0 +1,637 @@
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\WebGrease.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+E:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\WebGrease.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+D:\CODEWEB\BTWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.dll.config
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csc.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csi.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\csi.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\CODEWEB\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\CODEWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Razor.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\WebGrease.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.Razor.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.xml
+D:\CODEWEB\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+D:\CODEWEB\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Ictshop.dll.config
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Ictshop.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Ictshop.pdb
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\csc.exe
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\csc.exe.config
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\csc.rsp
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\csi.exe
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\csi.rsp
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.AppContext.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\vbc.exe
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\vbc.exe.config
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\vbc.rsp
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Antlr3.Runtime.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\EntityFramework.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Newtonsoft.Json.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\PagedList.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\PagedList.Mvc.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Helpers.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Mvc.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Optimization.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Razor.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\WebGrease.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\EntityFramework.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\PagedList.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\PagedList.Mvc.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Helpers.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Mvc.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Optimization.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.Razor.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Newtonsoft.Json.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Antlr3.Runtime.pdb
+D:\Code\AspNet MVC\Ictshop\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\AspNet MVC\Ictshop\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\Code\AspNet MVC\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\Code\AspNet MVC\Ictshop\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\Code\AspNet MVC\Ictshop\Ictshop\obj\Debug\Ictshop.dll
+D:\Code\AspNet MVC\Ictshop\Ictshop\obj\Debug\Ictshop.pdb
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.csprojAssemblyReference.cache
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.pdb
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Ictshop.dll.config
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Ictshop.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Ictshop.pdb
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\csc.exe
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\csc.exe.config
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\csc.rsp
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\csi.exe
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\csi.rsp
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.AppContext.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\vbc.exe
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\vbc.exe.config
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\vbc.rsp
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Antlr3.Runtime.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\EntityFramework.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Newtonsoft.Json.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\PagedList.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\PagedList.Mvc.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Helpers.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Mvc.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Optimization.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Razor.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\WebGrease.dll
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\EntityFramework.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\PagedList.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\PagedList.Mvc.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Helpers.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Mvc.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Optimization.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.Razor.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Newtonsoft.Json.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Antlr3.Runtime.pdb
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\Code\AspNet MVC\ictshop_aspnet\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+C:\Users\84384\Downloads\ictshop_aspnet-update_dathang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+C:\Users\84384\Downloads\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+D:\webbanhangmvc\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+D:\webbanhangmvcLAN1_Hung\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll.config
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Ictshop.pdb
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.exe.config
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csc.rsp
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.exe
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\csi.rsp
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.AppContext.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.exe.config
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\vbc.rsp
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\WebGrease.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\EntityFramework.SqlServer.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\PagedList.Mvc.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Helpers.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Mvc.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Optimization.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.Razor.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\System.Web.WebPages.Razor.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Newtonsoft.Json.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Antlr3.Runtime.pdb
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.dll
+E:\LapTrinhWebNangCao_ThayPhuc\WebBanHang\ictshop_aspnet-update_dathang\Ictshop\obj\Debug\Ictshop.pdb
