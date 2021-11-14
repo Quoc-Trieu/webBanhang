@@ -10,10 +10,11 @@
                 <h3>@item.Tensp</h3>
                 <h3 style="color:red">Giá: @item.Giatien</h3>
                 <br />
-              
-                    <input type="submit" value="Đặt Hàng" id="" />
+                @using (Html.BeginForm("ThemGioHang", "GioHang", new { @iMasp = item.Masp, @strURL = Request.Url.ToString() }))
+                {
+                    <input type="submit" value="Mua hàng" id="bgnGioHang" />
 
-                
+                }
                 @*<h4> <a href="@Url.Action("xemchitiet", new {@Masp=item.Masp })">Xem chi tiết</a></h4>*@
             </center>
 

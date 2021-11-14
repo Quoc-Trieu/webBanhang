@@ -319,23 +319,28 @@
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
-    <Content Include="Views\Web.config" />
-    <Content Include="Views\_ViewStart.cshtml" />
-    <Content Include="Views\Shared\Error.cshtml" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
+    <Content Include="Views\Danhmuc\DanhmucPartial.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\SlidePartial.cshtml" />
     <Content Include="Views\Sanpham\dtiphonePartial.cshtml" />
     <Content Include="Views\Sanpham\dtsamsungpartial.cshtml" />
-    <Content Include="Views\Danhmuc\DanhmucPartial.cshtml" />
-    <Content Include="Views\Home\SlidePartial.cshtml" />
     <Content Include="Views\Sanpham\dtxiaomipartial.cshtml" />
     <Content Include="Views\Sanpham\xemchitiet.cshtml" />
+    <Content Include="Views\Shared\Error.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\User\Dangky.cshtml" />
     <Content Include="Views\User\Dangnhap.cshtml" />
     <Content Include="Views\User\Test.cshtml" />
+    <Content Include="Views\Web.config" />
+    <Content Include="Views\_ViewStart.cshtml" />
     <Content Include="Web.Config" />
+    <Content Include="Views\Donhangs\Details.cshtml" />
+    <Content Include="Views\Donhangs\Index.cshtml" />
+    <Content Include="Views\GioHang\GioHang.cshtml" />
+    <Content Include="Views\GioHang\GioHangPartial.cshtml" />
+    <Content Include="Views\GioHang\SuaGioHang.cshtml" />
     <None Include="Web.Debug.Config">
       <DependentUpon>Web.Config</DependentUpon>
     </None>
