@@ -103,7 +103,7 @@
                 <div class="col-sm-4 col-md-0" style="font-size:large">L E A R N I N G  W E B</div>
 
                 <div class="col-sm-4 col-md-0" style="padding-left:250px" >
-                   
+                    @Html.Action("GioHangPartial", "GioHang",new {@class="giohang"})
             </div>
             @*@Html.Action("GioHangPartial", "GioHang",new { @style = "color:while" })*@
             @{
@@ -113,15 +113,15 @@
                         Xin chào : @u.Email
                         &nbsp;
                         @*@Html.ActionLink("ĐĂNG XUẤT", "DangXuat", "User", new { style = "color:red" })*@
-                        <a style="color:red" href="t"> ĐĂNG XUẤT</a>
+                        <a style="color:red" href="/User/DangXuat"> ĐĂNG XUẤT</a>
                     </div>
                 }
                 else
                 {
                     <div class="col-sm-4 col-md-0">
-                        <a style="color:white" href=""> Đăng ký</a>
+                        <a style="color:white" href="/User/Dangky"> Đăng ký</a>
                         &nbsp;
-                        <a style="color:white" href=""> Đăng nhập</a>
+                        <a style="color:white" href="/User/Dangnhap"> Đăng nhập</a>
                     </div>
                 }
             }
@@ -138,7 +138,7 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-               
+                <img class="navbar-brand" src="~/HinhanhSP/logo1.jpg" width="50" height="50" style="padding:0" />
                 @Html.ActionLink("Learningweb", "Index", "Home", new { area = "" }, new { @class = "navbar-brand" })
                 <form class="form-inline" style="float:left">
                     <input class="form-control mr-sm-2" type="search" placeholder="Tìm kiếm sản phẩm..." aria-label="Search">
@@ -185,7 +185,7 @@
                     <li>
                         <a style="color:white"
                            class="nav-link" 
-                           href="">ĐƠN HÀNG</a>
+                           href="@Url.Action("Index", "DonHangs")">ĐƠN HÀNG</a>
                     </li>
                 </ul>
             </div>

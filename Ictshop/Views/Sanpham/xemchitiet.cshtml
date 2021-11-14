@@ -18,10 +18,11 @@
         <br />
         @Model.Mota
         <br />
-       
-                <input type="submit" value="Đặt Hàng" id="" />
+        @using (Html.BeginForm("ThemGioHang","GioHang",new { @iMasp=Model.Masp, @strURL=Request.Url.ToString()}))
+        {
+                <input type="submit" value="Mua hàng" id="bgnGioHang" />
 
-        
+        }
         
     </div>
 </CENTER>
