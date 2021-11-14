@@ -22,7 +22,6 @@ namespace Ictshop.Models
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        {
-        }
+        { }
     }
 }

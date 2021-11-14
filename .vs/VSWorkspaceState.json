@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\Ictshop",
-    "\\Ictshop\\Views",
-    "\\Ictshop\\Views\\Sanpham",
-    "\\Ictshop\\Views\\Shared"
+    ""
   ],
-  "SelectedNode": "\\Ictshop\\Web.config",
+  "SelectedNode": "\\Ictshop.sln",
   "PreviewInSolutionExplorer": false
 }
