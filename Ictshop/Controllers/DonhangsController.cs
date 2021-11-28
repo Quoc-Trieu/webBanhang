@@ -25,7 +25,7 @@ namespace Ictshop.Controllers
             }
             Nguoidung kh = (Nguoidung)Session["use"];
             int maND = kh.MaNguoiDung;
-            var donhangs = db.Donhangs.Include(d => d.Nguoidung).Where(d=>d.MaNguoidung == maND);
+            var donhangs = db.Donhangs.Include(d => d.Nguoidung).Where(d => d.MaNguoidung == maND);
             return View(donhangs.ToList());
         }
 
@@ -38,7 +38,7 @@ namespace Ictshop.Controllers
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
             Donhang donhang = db.Donhangs.Find(id);
-            var chitiet = db.Chitietdonhangs.Include(d => d.Sanpham).Where(d=> d.Madon == id).ToList();
+            var chitiet = db.Chitietdonhangs.Include(d => d.Sanpham).Where(d => d.Madon == id).ToList();
             if (donhang == null)
             {
                 return HttpNotFound();

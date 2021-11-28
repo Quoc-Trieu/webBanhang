@@ -14,8 +14,8 @@ namespace Ictshop.Controllers
         // GET: Sanpham
         public ActionResult dtiphonepartial()
         {
-            var ip = db.Sanphams.Where(n=>n.Mahang==2).Take(4).ToList();
-           return PartialView(ip);
+            var ip = db.Sanphams.Where(n => n.Mahang == 2).Take(4).ToList();
+            return PartialView(ip);
         }
         public ActionResult dtsamsungpartial()
         {
@@ -32,9 +32,9 @@ namespace Ictshop.Controllers
         //    var mi = db.Sanphams.Where(n => n.Mahang == 5).Take(4).ToList();
         //    return PartialView(mi);
         //}
-        public ActionResult xemchitiet(int Masp=0)
+        public ActionResult xemchitiet(int Masp = 0)
         {
-            var chitiet = db.Sanphams.SingleOrDefault(n=>n.Masp==Masp);
+            var chitiet = db.Sanphams.SingleOrDefault(n => n.Masp == Masp);
             if (chitiet == null)
             {
                 Response.StatusCode = 404;

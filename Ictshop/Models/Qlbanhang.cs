@@ -22,6 +22,40 @@ namespace Ictshop.Models
         public virtual DbSet<sysdiagrams> sysdiagrams { get; set; }
 
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
-        { }
+        {
+            modelBuilder.Entity<Chitietdonhang>()
+                .Property(e => e.Dongia)
+                .HasPrecision(18, 0);
+
+            modelBuilder.Entity<Donhang>()
+                .HasMany(e => e.Chitietdonhang)
+                .WithRequired(e => e.Donhang)
+                .WillCascadeOnDelete(false);
+
+            modelBuilder.Entity<Hangsanxuat>()
+                .Property(e => e.Tenhang)
+                .IsFixedLength();
+
+            modelBuilder.Entity<Hedieuhanh>()
+                .Property(e => e.Tenhdh)
+                .IsFixedLength();
+
+            modelBuilder.Entity<Nguoidung>()
+                .Property(e => e.Dienthoai)
+                .IsFixedLength();
+
+            modelBuilder.Entity<Nguoidung>()
+                .Property(e => e.Matkhau)
+                .IsUnicode(false);
+
+            modelBuilder.Entity<Sanpham>()
+                .Property(e => e.Giatien)
+                .HasPrecision(18, 0);
+
+            modelBuilder.Entity<Sanpham>()
+                .HasMany(e => e.Chitietdonhang)
+                .WithRequired(e => e.Sanpham)
+                .WillCascadeOnDelete(false);
+        }
     }
 }
