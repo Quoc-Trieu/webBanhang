@@ -27,18 +27,18 @@ namespace Ictshop.Controllers
                 db.SaveChanges();
                 // Nếu dữ liệu đúng thì trả về trang đăng nhập
                 if (ModelState.IsValid)
-                    {
-                        return RedirectToAction("Dangnhap");
-                    }
+                {
+                    return RedirectToAction("Dangnhap");
+                }
                 return View("Dangky");
-                
+
             }
             catch
             {
                 return View();
             }
         }
-   
+
         public ActionResult Dangnhap()
         {
             return View();
@@ -54,29 +54,29 @@ namespace Ictshop.Controllers
             var islogin = db.Nguoidungs.SingleOrDefault(x => x.Email.Equals(userMail) && x.Matkhau.Equals(password));
 
             if (islogin != null)
+            {
+                if (userMail == "Admin@gmail.com")
                 {
-                    if (userMail == "Admin@gmail.com")
-                        {
-                           Session["use"] = islogin;
-                           return RedirectToAction("Index", "Admin/Home");
-                        }
-                     else
-                         {
-                           Session["use"] = islogin;
-                           return RedirectToAction("Index","Home");
-                         }
-                 }
-            else
-                {
-                    ViewBag.Fail = "Đăng nhập thất bại";
-                    return View("Dangnhap");
+                    Session["use"] = islogin;
+                    return RedirectToAction("Index", "Admin/Home");
                 }
+                else
+                {
+                    Session["use"] = islogin;
+                    return RedirectToAction("Index", "Home");
+                }
+            }
+            else
+            {
+                ViewBag.Fail = "Đăng nhập thất bại";
+                return View("Dangnhap");
+            }
 
         }
         public ActionResult DangXuat()
         {
             Session["use"] = null;
-            return RedirectToAction("Index","Home");
+            return RedirectToAction("Index", "Home");
 
         }
 

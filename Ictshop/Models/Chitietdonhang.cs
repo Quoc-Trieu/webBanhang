@@ -25,7 +25,7 @@ namespace Ictshop.Models
 
         public decimal? Thanhtien { get; set; }
 
-        //public virtual Donhang Donhang { get; set; }
+        public virtual Donhang Donhang { get; set; }
 
         public virtual Sanpham Sanpham { get; set; }
     }
