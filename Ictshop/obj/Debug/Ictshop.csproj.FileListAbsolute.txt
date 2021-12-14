@@ -832,3 +832,135 @@ E:\LapTrinhWebNangCao_ThayPhuc\webbanhang\Ictshop\obj\Debug\Ictshop.csproj.CoreC
 E:\LapTrinhWebNangCao_ThayPhuc\webbanhang\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
 E:\LapTrinhWebNangCao_ThayPhuc\webbanhang\Ictshop\obj\Debug\Ictshop.dll
 E:\LapTrinhWebNangCao_ThayPhuc\webbanhang\Ictshop\obj\Debug\Ictshop.pdb
+D:\HocTap\WebBanHang\Ictshop\bin\Ictshop.dll.config
+D:\HocTap\WebBanHang\Ictshop\bin\Ictshop.dll
+D:\HocTap\WebBanHang\Ictshop\bin\Ictshop.pdb
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\csc.exe
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\csc.exe.config
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\csc.rsp
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\csi.exe
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\csi.rsp
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.AppContext.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\vbc.exe
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\vbc.exe.config
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\vbc.rsp
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\WebBanHang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\WebBanHang\Ictshop\bin\Antlr3.Runtime.dll
+D:\HocTap\WebBanHang\Ictshop\bin\EntityFramework.dll
+D:\HocTap\WebBanHang\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\HocTap\WebBanHang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\WebBanHang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\WebBanHang\Ictshop\bin\Newtonsoft.Json.dll
+D:\HocTap\WebBanHang\Ictshop\bin\PagedList.dll
+D:\HocTap\WebBanHang\Ictshop\bin\PagedList.Mvc.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Helpers.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Mvc.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Optimization.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Razor.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.dll
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\WebBanHang\Ictshop\bin\WebGrease.dll
+D:\HocTap\WebBanHang\Ictshop\bin\EntityFramework.xml
+D:\HocTap\WebBanHang\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\HocTap\WebBanHang\Ictshop\bin\PagedList.xml
+D:\HocTap\WebBanHang\Ictshop\bin\PagedList.Mvc.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Helpers.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Mvc.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Optimization.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.Razor.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\WebBanHang\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\WebBanHang\Ictshop\bin\Newtonsoft.Json.xml
+D:\HocTap\WebBanHang\Ictshop\bin\Antlr3.Runtime.pdb
+D:\HocTap\WebBanHang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.dll
+D:\HocTap\WebBanHang\Ictshop\obj\Debug\Ictshop.pdb
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Ictshop.dll.config
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Ictshop.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Ictshop.pdb
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\csc.exe
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\csc.exe.config
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\csc.rsp
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\csi.exe
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\csi.rsp
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.AppContext.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.Collections.Immutable.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.IO.FileSystem.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\System.Reflection.Metadata.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\vbc.exe
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\vbc.exe.config
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\vbc.rsp
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\VBCSCompiler.exe
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\roslyn\VBCSCompiler.exe.config
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Antlr3.Runtime.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\EntityFramework.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\EntityFramework.SqlServer.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Microsoft.Web.Infrastructure.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Newtonsoft.Json.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\PagedList.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\PagedList.Mvc.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Helpers.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Mvc.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Optimization.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Razor.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.Deployment.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.Razor.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\WebGrease.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\EntityFramework.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\EntityFramework.SqlServer.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\PagedList.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\PagedList.Mvc.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Helpers.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Mvc.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Optimization.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.Razor.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.Deployment.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\System.Web.WebPages.Razor.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Newtonsoft.Json.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Antlr3.Runtime.pdb
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.AssemblyReference.cache
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.Migrations.AddThanhtien.resources
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.GenerateResource.cache
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.CoreCompileInputs.cache
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.csproj.CopyComplete
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.dll
+D:\HocTap\Web Progaming\WebBanHang\Ictshop\obj\Debug\Ictshop.pdb
