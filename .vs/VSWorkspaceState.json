@@ -1,13 +1,8 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Database",
-    "\\Ictshop",
-    "\\Ictshop\\Areas",
-    "\\Ictshop\\Areas\\Admin",
-    "\\Ictshop\\Areas\\Admin\\Views",
-    "\\Ictshop\\Areas\\Admin\\Views\\Shared"
+    "\\Ictshop"
   ],
-  "SelectedNode": "\\Ictshop\\Areas\\Admin\\Views\\Shared\\_LayoutAdmin.cshtml",
+  "SelectedNode": "\\Ictshop\\Web.config",
   "PreviewInSolutionExplorer": false
 }
